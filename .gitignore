@@ -1,0 +1,6 @@
+model_path
+.cog
+__pycache__
+
+models/**
+hf-cache/
